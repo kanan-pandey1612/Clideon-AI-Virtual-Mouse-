@@ -19,15 +19,6 @@ OpenCV: For hand and gesture tracking.
 
 AutoSy: For simulating mouse movements and clicks.
 
-Installation
-
-1. Clone the repository:
-git clone https://github.com/your-username/clideon-ai-virtual-mouse.git
-2. Install dependencies:
-pip install -r requirements.txt
-3. Run the application:
-python clideon.py
-
 How It Works
 
 Gesture Control
